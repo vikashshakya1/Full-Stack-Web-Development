@@ -1,0 +1,30 @@
+h1{
+    color:green;
+}
+.h2{
+    color:violet;
+}
+#h4{
+    color:yellow;
+}
+ptag{
+    background-color:yellow;
+    color:red;
+    border:1px double blue;
+}
+.background{
+     background-color: #E5674C;
+     opacity:0.5;
+     background-repeat: no-repeat;
+     background-position: right;
+     background-attachment: fixed;
+     height: 540px;
+}
+.background2{
+    height: 540px;
+    background: #ffffff url('E:\PG DATA SCIENCE\2nd Trimester\Web Development\workshopp\Toji.jpg') no-repeat center;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif';
+    
+}

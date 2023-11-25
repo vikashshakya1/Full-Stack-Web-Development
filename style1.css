@@ -1,0 +1,9 @@
+body{
+    background-image:url('image5.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+input{
+    background-color: aqua;
+    border-radius: 25px;
+}
